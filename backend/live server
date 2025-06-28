@@ -1,0 +1,2 @@
+import webbrowser
+webbrowser.open("https://eclectic-beijinho-1bdc30.netlify.app/")
